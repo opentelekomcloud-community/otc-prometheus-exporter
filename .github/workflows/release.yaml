@@ -55,8 +55,8 @@ jobs:
           build-args: |
             VERSION=${{ env.RELEASE_VERSION }}
           tags: |
-            ghcr.io/iits-consulting/otc-prometheus-exporter:latest
-            ghcr.io/iits-consulting/otc-prometheus-exporter:${{ env.RELEASE_VERSION }}
+            ghcr.io/opentelekomcloud-community/otc-prometheus-exporter:latest
+            ghcr.io/opentelekomcloud-community/otc-prometheus-exporter:${{ env.RELEASE_VERSION }}
 
 
 
