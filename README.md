@@ -143,3 +143,9 @@ Here are pictures of how the dashboards look. Keep in mind that not always all m
 
 - [Open Telekom Cloud Docs](https://docs.otc.t-systems.com/)
 - https://github.com/tiagoReichert/otc-cloudeye-prometheus-exporter
+
+<br>
+
+<img src="./img/iits.svg" alt="iits consulting" id="logo" width="200" height="200">
+
+*This tool is provided by [iits-consulting](https://iits-consulting.de/) - your Cloud-Native Innovation Teams as a Service!*
